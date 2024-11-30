@@ -1,8 +1,9 @@
 import React from 'react'
+import CustomNavbar from '@/component/navbar/page'
 
 const page = () => {
   return (
-    <div>Hi! Today,I setup next.js</div>
+    <div></div>
   )
 }
 
