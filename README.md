@@ -83,3 +83,9 @@ With the rapid growth of digital content, extracting relevant information from l
 3. Run the notebook on Google Colab or locally  
 4. Upload a text file or paste content  
 5. Get extractive + abstractive summary in one click
+
+## ✅ Output
+![page](https://github.com/user-attachments/assets/f463949b-596a-4537-aaa5-83f1ec683ea5)
+<img width="920" alt="output" src="https://github.com/user-attachments/assets/928af7e6-fbdc-4cf0-8cd7-e01745155f9d" />
+
+
